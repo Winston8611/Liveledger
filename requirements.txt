@@ -1,0 +1,4 @@
+# The method, the data generators, and validate_data.py use only the Python standard library.
+# Rebuilding the natural-language items with scripts/build_nl.py additionally requires:
+pandas>=2.2
+pyarrow>=15.0
